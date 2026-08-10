@@ -49,7 +49,7 @@ status:        Actively seeking entry-level cybersecurity roles
 | Certification | Issuer | Status |
 |:---|:---|:---:|
 | Certified Ethical Hacker (CEH v13) | EC-Council | ✅ Certified |
-| Web/API Red Team Analyst | — | ✅ Certified |
+| Web/API Red Team Analyst | CyberWarFare | ✅ Certified |
 
 </div>
 
