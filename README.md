@@ -183,7 +183,7 @@ A terminal-themed personal portfolio site for a Penetration Tester / Security Re
   <img src="https://raw.githubusercontent.com/hrushikesh1199/hrushikesh1199/output/github-snake.svg" alt="Snake animation" width="100%"/>
 </div>
 
-<sub align="center">⚙️ Snake animation auto-generates once you add the workflow file below to this repo — see setup note at the bottom.</sub>
+<sub align="center">⚙️ </sub>
 
 <br/>
 
@@ -199,11 +199,3 @@ A terminal-themed personal portfolio site for a Penetration Tester / Security Re
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D6001C,100:1a1a2e&height=120&section=footer" width="100%"/>
   <sub>💡 Thanks for stopping by — open to opportunities in SOC, VAPT, and Application Security.</sub>
 </div>
-
-<!--
-SETUP NOTE (remove this comment once done):
-The snake animation above needs a one-time workflow file to activate.
-Create: .github/workflows/snake.yml in this same repo with the content
-provided alongside this README, then push. GitHub Actions will generate
-and update the snake automatically on a daily schedule.
--->
