@@ -27,14 +27,14 @@
 
 ---
 
-## 👋 About Me
+## 👋 Hello, I'm Hrushikesh
 
 I'm an **aspiring Cybersecurity Engineer** based in Pune, India, specializing in **Red Teaming, Vulnerability Assessment & Penetration Testing (VAPT), and Application Security** — with a growing focus on **API, Web, and Cloud Security**. I bring together SOC-side detection experience and offensive security tooling — with **~11 months** of combined internship experience across both worlds.
 
 ```
-Offensive Security          Defensive Security
-       (VAPT / Red Team)  +  (SOC / Detection)
-                    =
+Offensive Security                     Defensive Security
+       (VAPT / Red Team)     +         (SOC / Detection)
+                             =
        A well-rounded, dual-perspective security analyst
 ```
 
@@ -47,29 +47,29 @@ Offensive Security          Defensive Security
 ```
 ┌──────────────────────────────────────────────────────────┐
 │              OFFENSIVE SECURITY / VAPT                   │
-│                                                            │
-│  • Web Application Penetration Testing (OWASP Top 10)     │
-│  • API Security Testing (OWASP API Top 10)                │
-│  • Network & Infrastructure Penetration Testing            │
-│  • Linux Privilege Escalation & Post-Exploitation          │
-│  • Payload Crafting, Encoding & Obfuscation                │
+│                                                          │
+│  • Web Application Penetration Testing (OWASP Top 10)    │
+│  • API Security Testing (OWASP API Top 10)               │
+│  • Network & Infrastructure Penetration Testing          │
+│  • Linux Privilege Escalation & Post-Exploitation        │
+│  • Payload Crafting, Encoding & Obfuscation              │
 └──────────────────────────────────────────────────────────┘
 
 ┌──────────────────────────────────────────────────────────┐
 │              DEFENSIVE SECURITY / SOC                    │
-│                                                            │
-│  • SIEM Monitoring & Log Correlation (IBM QRadar)          │
-│  • Security Incident Triage & Escalation                   │
-│  • Threat Detection Workflows                              │
-│  • Vulnerability Management & Reporting                    │
+│                                                          │
+│  • SIEM Monitoring & Log Correlation (IBM QRadar)        │
+│  • Security Incident Triage & Escalation                 │
+│  • Threat Detection Workflows                            │
+│  • Vulnerability Management & Reporting                  │
 └──────────────────────────────────────────────────────────┘
 
 ┌──────────────────────────────────────────────────────────┐
-│              CLOUD & API SECURITY (GROWING FOCUS)         │
-│                                                            │
-│  • Cloud Misconfiguration Assessment (AWS / Azure)          │
-│  • API Authentication & Authorization Testing               │
-│  • Secure API Design Review                                │
+│              CLOUD & API SECURITY (GROWING FOCUS)        │
+│                                                          │
+│  • Cloud Misconfiguration Assessment (AWS / Azure)       │
+│  • API Authentication & Authorization Testing            │
+│  • Secure API Design Review                              │
 └──────────────────────────────────────────────────────────┘
 ```
 
@@ -101,13 +101,12 @@ Offensive Security          Defensive Security
 
 | Certification | Issuer | Year |
 |:---|:---|:---:|
-| Certified Ethical Hacker (CEH v13) | EC-Council | 2026 |
-| Web Red Team Analyst (Web RTA) | CyberWarFare Labs | 2026 |
-| API Red Team Analyst (API RTA) | CyberWarFare Labs | 2026 |
-| Web Fundamentals | TryHackMe | 2025 |
-| SQL Fundamentals | HackerRank | 2025 |
-| Cybersecurity Expert | Udemy | 2025 |
-| Java Programming | NareshIT | 2024 |
+| Certified Ethical Hacker (CEH v13) | EC-Council | 2026 ✅ Certified |
+| Web Red Team Analyst (Web RTA) | CyberWarFare Labs | 2026 ✅ Certified |
+| API Red Team Analyst (API RTA) | CyberWarFare Labs | 2026 ✅ Certified |
+| Web Fundamentals | TryHackMe | 2025 ✅ Certified |
+| SQL Fundamentals | HackerRank | 2025 ✅ Certified |
+| Cybersecurity Expert | Udemy | 2025 ✅ Certified |
 
 </div>
 
@@ -248,13 +247,7 @@ A terminal-themed personal portfolio site for a Penetration Tester / Security Re
 
 ---
 
-## 📈 Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hrushikesh1199&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" width="100%"/>
-
-</div>
 
 ---
 
