@@ -29,13 +29,13 @@
 
 ## 👋 Hello, I'm Hrushikesh
 
-I'm an **aspiring Cybersecurity Engineer** based in Pune, India, specializing in **Red Teaming, Vulnerability Assessment & Penetration Testing (VAPT), and Application Security** — with a growing focus on **API, Web, and Cloud Security**. I bring together SOC-side detection experience and offensive security tooling — with **~11 months** of combined internship experience across both worlds.
+I'm an **aspiring Cybersecurity Engineer** based in Pune, India, specializing in **Red Teaming, Vulnerability Assessment & Penetration Testing (VAPT), and Application Security** — with a growing focus on **API, Web, and Cloud Security**. I bring together SOC-side detection experience and offensive security tooling — with **~12 months** of combined internship experience across both worlds.
 
 ```
 Offensive Security                     Defensive Security
        (VAPT / Red Team)     +         (SOC / Detection)
-                             =
-       A well-rounded, dual-perspective security analyst
+                             
+       =   A well-rounded, dual-perspective security analyst
 ```
 
 > **Goal:** Break systems responsibly, document the impact clearly, and help build defenses that actually hold up.
@@ -46,7 +46,7 @@ Offensive Security                     Defensive Security
 
 ```
 ┌──────────────────────────────────────────────────────────┐
-│              OFFENSIVE SECURITY / VAPT                   │
+│           🔴 OFFENSIVE SECURITY / VAPT                   │
 │                                                          │
 │  • Web Application Penetration Testing (OWASP Top 10)    │
 │  • API Security Testing (OWASP API Top 10)               │
@@ -56,7 +56,7 @@ Offensive Security                     Defensive Security
 └──────────────────────────────────────────────────────────┘
 
 ┌──────────────────────────────────────────────────────────┐
-│              DEFENSIVE SECURITY / SOC                    │
+│             🛡️ DEFENSIVE SECURITY / SOC                  │
 │                                                          │
 │  • SIEM Monitoring & Log Correlation (IBM QRadar)        │
 │  • Security Incident Triage & Escalation                 │
@@ -65,7 +65,7 @@ Offensive Security                     Defensive Security
 └──────────────────────────────────────────────────────────┘
 
 ┌──────────────────────────────────────────────────────────┐
-│              CLOUD & API SECURITY (GROWING FOCUS)        │
+│             ☁️ CLOUD & API SECURITY (GROWING FOCUS)      │
 │                                                          │
 │  • Cloud Misconfiguration Assessment (AWS / Azure)       │
 │  • API Authentication & Authorization Testing            │
