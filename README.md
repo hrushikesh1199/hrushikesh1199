@@ -107,6 +107,7 @@ Offensive Security                     Defensive Security
 | Web Fundamentals | TryHackMe | 2025 ✅ Certified |
 | SQL Fundamentals | HackerRank | 2025 ✅ Certified |
 | Cybersecurity Expert | Udemy | 2025 ✅ Certified |
+| CEH-MASTER (CEH v13) | EC-Council | 2026 🔄 Pursuing |
 
 </div>
 
