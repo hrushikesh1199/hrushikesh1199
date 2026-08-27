@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070B1A,40:111827,70:2563EB,100:7C3AED&height=200&section=header&text=Hrushikesh%20Dipak%20Pawar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Cybersecurity%20Engineer%20%7C%20Red%20Team%20%7C%20VAPT&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070B1A,40:111827,70:2563EB,100:7C3AED&height=200&section=header&text=Hrushikesh%20Pawar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Cybersecurity%20Engineer%20%7C%20Red%20Team%20%7C%20VAPT&descAlignY=58&descSize=17" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=Aspiring+Cybersecurity+Engineer;Red+Team+%7C+VAPT+%7C+Application+Pentester;API%2C+Web+%26+Cloud+Security;CEH+v13+Certified+%7C+SOC+%2B+Offensive+Security" alt="Typing SVG" />
 
