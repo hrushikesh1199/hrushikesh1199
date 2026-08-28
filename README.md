@@ -82,7 +82,7 @@ Offensive Security                     Defensive Security
 
 ### 🛡️ Cybersecurity Intern (VAPT) — UnifiedMentor
 
-`March 2026 – August 2026 · 6 months`
+`May 2026 – August 2026 · 4 months`
 
 * Performed **Vulnerability Assessment & Penetration Testing (VAPT)** across web applications and infrastructure, identifying and validating security weaknesses aligned to **OWASP Web & API Top 10** standards.
 * Conducted manual and tool-assisted testing using **Burp Suite, Nmap, sqlmap, and OWASP ZAP** to uncover authentication flaws, injection vulnerabilities, and misconfigurations.
@@ -91,7 +91,7 @@ Offensive Security                     Defensive Security
 
 ### 🔎 SOC Analyst Intern — DronaShield Cyber Forensics
 
-`March 2025 – August 2025 · 6 months`
+`May 2025 – August 2025 · 4 months`
 
 * Monitored security alerts and performed **incident triage** using **IBM QRadar** SIEM across a live production environment.
 * Handled **log correlation** and threat detection workflows to identify anomalous activity and potential intrusions.
